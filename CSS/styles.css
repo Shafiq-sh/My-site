@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito', serif;
+  line-height: 1.2;
+}
+
+h1 {
+  display: inline-block;
+  margin: 60px auto 0 auto;
+  font-family: 'Arizonia', serif;
+  font-size: 3.8rem;
+  color: #66BFBF
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  font-family: 'Lato', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr{
+  margin: 55px auto;
+  border-top: dotted 6px;
+  border-bottom: 0;
+  border-left: 0;
+  width: 5%;
+  color: #F3F2F1;
+}
+
+table{
+  float: left;
+  text-align: left;
+}
+
+
+a{
+  font-weight: bold;
+  text-decoration: none;
+  color: #11999E;
+  transition-duration: 0.6s;
+}
+
+a:hover{
+  color: #0f4c75;
+}
+
+
+/************CLASSES*******e3e7f1ad*****/
+.top-container {
+  background-color: #E4F9F5;
+  margin: 0 0 60px 0;
+  padding: 120px 20px 0 20px;
+}
+
+.middle-container {
+  margin: 20px auto 20px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 30px auto 0 auto;
+  height: 100px;
+  padding-top: 40px;
+}
+
+.skill-row{
+  width: 80%;
+  margin: 70px auto 300px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  width: 140px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  width: 140px;
+}
+
+.code-img{
+  float: left;
+  clear: right;
+  margin-right: 200px;
+}
+
+.line{
+ clear: both;
+}
+
+.mountain-img{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.education-img{
+  width: 100px;
+  float: left;
+  margin-left: 0;
+  margin-right: 22%;
+}
+
+.education-class{
+  margin: 50px 0 100px auto;
+  text-align: left;
+  padding-left: 12%;
+}
+
+.contact-me{
+  margin: 20px auto 100px auto;
+}
+
+.btn{
+  background-color: #66BFBF;
+  border: none;
+  color: #EAF6F6;
+  margin-top: 20px;
+  font-size: 15px;
+  padding: 10px 15px;
+  text-align: center;
+  border-radius: 8px;
+  transition-duration: 0.6s;
+}
+
+.btn:hover{
+  background-color: #11999E;
+}
+
+.signature{
+  color: #EAF6F6;
+  margin-top: 30px;
+  font-size: 13px;
+}
+
+
+.footer-link{
+  font-weight: bold;
+  text-decoration: none;
+  color: #11999E;
+  margin: auto 30px auto 30px;
+  transition-duration: 0.6s;
+}
+
+.footer-link:hover{
+  color: #0f4c75;
+}
